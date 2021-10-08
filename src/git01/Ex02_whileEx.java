@@ -1,6 +1,6 @@
 package git01;
 
-public class Ex02_whileEx {
+public class Ex02_WhileEx {
 
 	public static void main(String[] args) {
 		//

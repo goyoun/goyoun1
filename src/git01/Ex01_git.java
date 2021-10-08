@@ -1,6 +1,6 @@
 package git01;
 
-public class Ex01_git {
+public class Ex01_Git {
 
 	public static void main(String[] args) {
 		// 
