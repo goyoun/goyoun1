@@ -27,7 +27,6 @@ public class Ex10_IfEx07 {
 				System.out.println("불합격");
 			}
 		} else {
-			System.out.println("불합격");
 		}
 
 	}
