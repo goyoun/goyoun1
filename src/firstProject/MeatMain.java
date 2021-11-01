@@ -19,7 +19,8 @@ public class MeatMain {
 	System.out.println("■□               |    수입 고기 입력     |       고기 목록	  |             |              |             |              |             □■");
 	System.out.println("■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□");
 	System.out.print("※ 번호를 선택해주세요 : ");
-	pick = scan.nextInt();
+	
+	    pick = scan.nextInt();
 
 		switch (pick) {
 		case 1:
@@ -54,10 +55,10 @@ public class MeatMain {
 		System.out.println("  시스템을 종료합니다. ");
 		run = false;
 		break;
-		
 		}
-			}
+		
+	
 				}
-}
-
-
+		}
+	}
+	

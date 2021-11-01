@@ -23,7 +23,7 @@ public class MeatShopBuyerDTO {
 	}
 	@Override
 	public String toString() {
-		return "MeatShopBuyer [buyer=" + buyer + ", buyerNum=" + buyerNum + "]";
+		return "MeatShopBuyer [고객님성함=" + buyer + ", 고객님 번호=" + buyerNum + "]";
 	}
 	
 	

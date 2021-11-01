@@ -51,9 +51,8 @@ public class MeatShopDTO {
 
 	@Override
 	public String toString() {
-		return "MeatShopDTO [meatName=" + meatName + ", meatKinds="
-				+ meatKinds + ", meatCount=" + meatCount + ", meatPrice=" + meatPrice + ", meatSales=" + meatSales
-				+ "]";
+		return "MeatShopDTO [고기종류 = " + meatName + ", 고기이름 = "
+				+ meatKinds + ", 고기개수 =" + meatCount + ", 고기 수입가격 = " + meatPrice;
 	}
 
 

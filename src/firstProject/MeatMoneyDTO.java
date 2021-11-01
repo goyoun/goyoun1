@@ -26,7 +26,7 @@ public class MeatMoneyDTO {
 	}
 	@Override
 	public String toString() {
-		return "MeatMoneyDTO [totalSales=" + totalSales + ", totalPrice=" + totalPrice + "]";
+		return "MeatMoneyDTO [총 판매한 금액=" + totalSales + ", 총 수입한 금액=" + totalPrice + "]";
 	}
 	
 	
